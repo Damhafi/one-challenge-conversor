@@ -6,9 +6,9 @@
 
 💲 O programa criado totalmente em Java, possui um conversor de moedas que converte de moedas como:
 
-- Reais a Dólar
-- Reais a Euro
-- Reais a Peso argentino
+- Reais a Dólar;
+- Reais a Euro;
+- Reais a Peso argentino;
 
 🌡 Também possui um conversor de temperaturas usando o Celsius, Kelvin e Fahrenheit.
 
